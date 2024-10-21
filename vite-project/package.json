@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node src/lab1/module-data-generator.cjs 5 && vite",
+    "dev": "node src/lab2/data/module-data-generator.cjs 5 && vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
